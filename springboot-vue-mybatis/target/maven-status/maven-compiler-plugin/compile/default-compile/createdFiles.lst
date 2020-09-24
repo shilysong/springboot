@@ -1,0 +1,4 @@
+com\itnoobking\mapper\UserMapper.class
+com\itnoobking\MySpringBootApplication.class
+com\itnoobking\controller\UserController.class
+com\itnoobking\pojo\User.class
